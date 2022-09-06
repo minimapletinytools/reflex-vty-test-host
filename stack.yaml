@@ -54,7 +54,7 @@ extra-deps:
 
 # TODO switch to https://hackage.haskell.org/package/reflex-test-host when it's been updated with monadic stuff
 - github: pdlla/reflex-test-host
-  commit: d4ce1977f6cd7926bada650e9ae773fe182004b3
+  commit: db3b2e042d0b00e09eb709918b53318252965416
 
 # Override default flag values for local packages and extra-deps
 # flags: {}
